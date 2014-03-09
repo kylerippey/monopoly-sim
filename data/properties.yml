@@ -1,0 +1,120 @@
+0:
+  name: "Go"
+  type: go
+1:
+  name: "Mediterranean Avenue"
+  type: property
+2:
+  name: "Community Chest"
+  type: community_chest
+3:
+  name: "Baltic Avenue"
+  type: property
+4:
+  name: "Income Tax"
+  type: tax
+5:
+  name: "Reading Railroad"
+  type: railroad
+6:
+  name: "Oriental Avenue"
+  type: property
+7:
+  name: "Chance"
+  type: chance
+8:
+  name: "Vermont Avenue"
+  type: property
+9:
+  name: "Connecticut Avenue"
+  type: property
+10:
+  name: "Jail / Just Visiting"
+  type: jail
+11:
+  name: "St. Charles Place"
+  type: property
+12:
+  name: "Electric Company"
+  type: utility
+13:
+  name: "States Avenue"
+  type: property
+14:
+  name: "Virginia Avenue"
+  type: property
+15:
+  name: "Pennsylvania Railroad"
+  type: railroad
+16:
+  name: "St. James Place"
+  type: property
+17:
+  name: "Community Chest"
+  type: community_chest
+18:
+  name: "Tennessee Avenue"
+  type: property
+19:
+  name: "New York Avenue"
+  type: property
+20:
+  name: "Free Parking"
+  type: free_parking
+21:
+  name: "Kentucky Avenue"
+  type: property
+22:
+  name: "Chance"
+  type: chance
+23:
+  name: "Indiana Avenue"
+  type: property
+24:
+  name: "Illinois Avenue"
+  type: property
+25:
+  name: "B & O Railroad"
+  type: railroad
+26:
+  name: "Atlantic Avenue"
+  type: property
+27:
+  name: "Ventnor Avenue"
+  type: property
+28:
+  name: "Water Works"
+  type: utility
+29:
+  name: "Marvin Gardens"
+  type: property
+30:
+  name: "Go To Jail"
+  type: go_to_jail
+31:
+  name: "Pacific Avenue"
+  type: property
+32:
+  name: "North Carolina Avenue"
+  type: property
+33:
+  name: "Community Chest"
+  type: community_chest
+34:
+  name: "Pennsylvania Avenue"
+  type: property
+35:
+  name: "Short Line"
+  type: railroad
+36:
+  name: "Chance"
+  type: chance
+37:
+  name: "Park Place"
+  type: property
+38:
+  name: "Luxury Tax"
+  type: tax
+39:
+  name: "Boardwalk"
+  type: property
